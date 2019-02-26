@@ -1,0 +1,67 @@
+
+h1 {
+  padding-left: 35px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  padding-left: 25px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  padding-left: 50px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+.far {
+  color: black;
+  font-size: 18px;
+  padding-left: 20px;
+  color: rgb(197, 159, 204);
+}
+
+.fas {
+  font-size: 18px;
+  color: rgb(197, 159, 204);
+}
+
+.list {
+  font-family: 'Roboto', sans-serif;
+  font-size: 23px;
+  list-style: none;
+}
+
+.taskdetails {
+  background-color: rgb(234, 229, 229);
+  border-radius: 5px;
+  margin: 20px 15px;
+  padding: 20px 20px;
+}
+
+.form {
+  padding-left: 50px;
+  padding-right: 150px;
+  padding-top: 70px;
+}
+
+.form h1 {
+  padding-left: 0px;
+}
+
+.edit {
+  padding-right: 70px;
+  border: 1px;
+  border-radius: 5px;
+  background-color: rgb(188, 229, 241);
+  margin-right: 30px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
